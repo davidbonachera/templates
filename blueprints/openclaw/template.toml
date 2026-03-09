@@ -14,8 +14,6 @@ OPENCLAW_GATEWAY_TOKEN = "${gateway_token}"
 OPENCLAW_GATEWAY_PORT = 18789
 AUTH_USERNAME="${auth_username}"
 AUTH_PASSWORD="${auth_password}"
-OPENCLAW_BRIDGE_PORT = 18790
 OPENCLAW_GATEWAY_BIND="lan"
-OPENCLAW_PLUGINS="discord,memory-core"
 # Get here https://openrouter.ai/
 OPENROUTER_API_KEY="YOUR-API-KEY"
